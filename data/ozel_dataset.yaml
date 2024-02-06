@@ -1,9 +1,9 @@
 
 
 # train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
-train: /kaggle/input/teknofestt/dataset/train2017.txt  # 118287 images
-val: /kaggle/input/teknofestt/dataset/val2017.txt  # 5000 images
-test: /kaggle/input/teknofestt/dataset/test-dev2017.txt  # 20288 of 40670 images, submit to https://competitions.codalab.org/competitions/20794
+train: /kaggle/input/teknofest/dataset/train2017.txt  # 118287 images
+val: /kaggle/input/teknofest/dataset/val2017.txt  # 5000 images
+test: /kaggle/input/teknofest/dataset/test-dev2017.txt  # 20288 of 40670 images, submit to https://competitions.codalab.org/competitions/20794
 
 # number of classes
 nc: 4
